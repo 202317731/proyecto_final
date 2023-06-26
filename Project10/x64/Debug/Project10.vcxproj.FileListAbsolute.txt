@@ -1,0 +1,2 @@
+C:\Users\Leonardo\Desktop\C++\Project10\Project10\x64\Debug\Project10.vcxproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\C++\Project10\Project10\x64\Debug\Project10.vcxproj.SuggestedBindingRedirects.cache

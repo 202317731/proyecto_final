@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Leonardo\Desktop\C++\Project10\Project10\Source.cpp(153,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Leonardo\Desktop\C++\Project10\Project10\Source.cpp(419,32): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Leonardo\Desktop\C++\Project10\Project10\Source.cpp(409,18): warning C4101: 'cost': variable local sin referencia
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project10.vcxproj -> C:\Users\Leonardo\Desktop\C++\Project10\x64\Debug\Project10.exe
